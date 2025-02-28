@@ -10,9 +10,6 @@ Key Components:
 This project provides a hands-on approach to understanding supervised classification techniques and comparing their effectiveness.
 
 ## Results: Model Performance Comparison
-The table below compares the evaluation metrics for Logistic Regression (from scratch) and SVM (sklearn) on the Portuguese Bank Marketing Dataset (numeric, random subsampled):
-
-## Results: Model Performance Comparison
 
 The table below compares the evaluation metrics for **Logistic Regression (from scratch)** and **SVM (sklearn)** on the **Portuguese Bank Marketing Dataset (numeric, random subsampled)**:
 
@@ -22,8 +19,6 @@ The table below compares the evaluation metrics for **Logistic Regression (from 
 | Precision | 0.7932              | 0.8099   |
 | Recall    | 0.8436              | 0.8207   |
 | F1-Score  | 0.8176              | 0.8153   |
-
-
 
 ## Results: Decision Tree Confusion Matrix and Classification Report
 
