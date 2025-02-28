@@ -30,18 +30,18 @@ The table below compares the evaluation metrics for **Logistic Regression (from 
 ![image](https://github.com/user-attachments/assets/e265a111-2abd-42ef-8791-3129d2e0809c)
 
 Classification Report:
-              precision    recall  f1-score   support
 
-           1       0.52      0.63      0.57       119
-           2       0.80      0.83      0.82       112
-           3       0.74      0.79      0.76       112
-           4       0.82      0.75      0.78       106
-           5       0.76      0.69      0.72       106
-           6       0.80      0.68      0.74       117
-
-    accuracy                           0.73       672
-   macro avg       0.74      0.73      0.73       672
-weighted avg       0.74      0.73      0.73       672
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| **1** | 0.52      | 0.63   | 0.57     | 119     |
+| **2** | 0.80      | 0.83   | 0.82     | 112     |
+| **3** | 0.74      | 0.79   | 0.76     | 112     |
+| **4** | 0.82      | 0.75   | 0.78     | 106     |
+| **5** | 0.76      | 0.69   | 0.72     | 106     |
+| **6** | 0.80      | 0.68   | 0.74     | 117     |
+| **Accuracy** | - | - | **0.73** | **672** |
+| **Macro Avg** | 0.74 | 0.73 | 0.73 | 672 |
+| **Weighted Avg** | 0.74 | 0.73 | 0.73 | 672 |
 
 ## Results: Decision Tree Visualization
 
